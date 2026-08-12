@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行时数据（本地题库 / 登录态 / 日志 / API Key，切勿上传）
+data/
+*.db
+*.log
+api_key.json
+
+# PyInstaller 构建产物
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统
+Thumbs.db
+.DS_Store
