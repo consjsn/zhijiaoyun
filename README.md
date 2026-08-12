@@ -1,6 +1,6 @@
 # 智教云网页版刷课助手
 
-> 基于 **Playwright + FastAPI + tkinter** 的智教云网页版半自动刷课工具，支持课程爬取、视频自动观看、答题自动完成、本地题库沉淀与 DeepSeek AI 兜底。
+> 智教云网页版半自动刷课工具，支持课程爬取、视频自动观看、答题自动完成、本地题库沉淀与 DeepSeek AI 兜底。
 
 ## ✨ 功能特性
 
@@ -24,7 +24,7 @@
 | 桌面 UI | tkinter 悬浮窗 |
 | 题库存储 | SQLite |
 | AI 答题 | DeepSeek API（需自备 Key） |
-| 打包 | PyInstaller（单文件 exe） |
+
 
 ## 📁 目录结构
 
